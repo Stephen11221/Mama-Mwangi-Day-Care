@@ -1,0 +1,8 @@
+{
+  "name": "Mwingi Day Care - Baby Dare Care",
+  "description": "Welcome to Baby Dare Care in Mwingi Town, Kitui County, Kenya. Caring, welcoming, and child-focused daycare founded by Madam Hellen Joseph Ndungu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
