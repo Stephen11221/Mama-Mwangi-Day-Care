@@ -449,7 +449,7 @@ export default function App() {
                   Safe & Accessible
                 </h3>
                 <p className="text-xs sm:text-sm text-[#526373] leading-relaxed">
-                  Conveniently situated by Mwingi Level IV Hospital in Kiberi Area. Safe gate with trusted staff.
+                  Conveniently situated by Mwingi Level IV Hospital in Kiberiti Area. Safe gate with trusted staff.
                 </p>
               </div>
 
@@ -889,7 +889,7 @@ export default function App() {
                   <span>How to Reach Us</span>
                 </div>
                 <h3 className="text-xl sm:text-2xl font-semibold text-[#172c40] font-display">
-                  Along Mwingi Level IV Hospital, around Kiberi Area
+                  Along Mwingi Level IV Hospital, around Kiberiti Area
                 </h3>
                 <p className="text-sm text-[#526373]">
                   Mwingi Town, Kitui County, Kenya. Use Mwingi Level IV Hospital as your main landmark.
@@ -1135,7 +1135,7 @@ export default function App() {
               <div className="space-y-1 text-sm text-[#f9ead0]">
                 <p className="flex items-center gap-2">
                   <MapPin className="w-4 h-4 text-[#f4bc59] shrink-0" />
-                  <span>Along Mwingi Level IV Hospital, Kiberi Area, Mwingi Town, Kenya</span>
+                  <span>Along Mwingi Level IV Hospital, Kiberiti Area, Mwingi Town, Kenya</span>
                 </p>
                 <p className="flex items-center gap-2">
                   <Phone className="w-4 h-4 text-[#f4bc59] shrink-0" />
